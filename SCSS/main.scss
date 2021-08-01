@@ -27,7 +27,7 @@ h5,
 h6,
 span,
 p {
-    color: $foreground;
+    // color: $foreground;
 }
 
 @keyframes translate3 {
@@ -618,7 +618,7 @@ p {
             .project-title {
                 color: #f09ff0;
                 span {
-                    color: $foreground;
+                    color: #fff;
                 }
             }
             .project-desc {
